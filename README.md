@@ -1,6 +1,8 @@
 ## Hi there 👋
 🚩 I’m currently working on Efficient Adaption of Large Vision-Language Models. 
 <!--
+this is the emoji page: https://www.webfx.com/tools/emoji-cheat-sheet/
+this is the tutorial page about how to make profile: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 **Journeyfu/Journeyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
